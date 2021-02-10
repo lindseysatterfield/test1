@@ -1,72 +1,15 @@
-/* START OVERVIEW FORM */
-.overview-form-container {
-  width: 900px;
-  /* border: 1px red solid; */
-}
-
+/* CSS FOR ALL 4 FORMS */
 form {
   width: 800px;
   margin: 0 auto;
   /* border: 1px red solid; */
 }
 
-label {
+form label {
   font-weight: 600;
 } 
-/* END OVERVIEW FORM */
-
-
-
-/* START REPOS FORM */
-.repos-container {
-  width: 900px;
-  /* border: 1px red solid;  */
-}
-
-form {
-  width: 800px;
-  margin: 0 auto;
-  /* border: 1px red solid; */
-}
 
 form a {
   text-decoration: none;
   color: #38e038;
 }
-/* END REPOS FORM */
-
-
-/* START PROJECTS FORM */
-.projects-form-container {
-  width: 900px;
-  /* border: 1px red solid; */
-}
-
-form {
-  width: 800px;
-  margin: 0 auto;
-  /* border: 1px red solid; */
-}
-
-label {
-  font-weight: 600;
-}  
-/* END PROJECTS FORM */
-
-
-/* START PACKAGES FORM */
-.packages-form-container {
-  width: 900px;
-  /* border: 1px red solid;   */
-}
-
-form {
-  width: 800px;
-  margin: 0 auto;
-  /* border: 1px red solid; */
-}
-
-label {
-  font-weight: 600;
-}
-/* END PACKAGES FORM */
